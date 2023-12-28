@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Devendra-Sinha/static/css/main.ff430668.css",
+    "main.js": "/Devendra-Sinha/static/js/main.f22d0128.js",
+    "static/media/contactme.jpg": "/Devendra-Sinha/static/media/contactme.30f0fc838d3ff66368a7.jpg",
+    "static/media/proj-3img.jpeg": "/Devendra-Sinha/static/media/proj-3img.ac153ae8c38b89a4cb62.jpeg",
+    "static/media/proj-7img.jpeg": "/Devendra-Sinha/static/media/proj-7img.24cac49c0440cdaf3959.jpeg",
+    "static/media/proj-2img.jpeg": "/Devendra-Sinha/static/media/proj-2img.fb51e8068c5b8038e233.jpeg",
+    "static/media/proj-4img.jpeg": "/Devendra-Sinha/static/media/proj-4img.bbc6160351cd71c88993.jpeg",
+    "static/media/proj-6img.jpeg": "/Devendra-Sinha/static/media/proj-6img.e68367064e08ee665403.jpeg",
+    "static/media/proj-5img.jpeg": "/Devendra-Sinha/static/media/proj-5img.386484f78af34f19c431.jpeg",
+    "static/media/proj-1.jpg": "/Devendra-Sinha/static/media/proj-1.3c9fb03a95eda5fe0a69.jpg",
+    "static/media/workshop-1.jpeg": "/Devendra-Sinha/static/media/workshop-1.223438655ebc6cf3410d.jpeg",
+    "static/media/brush.png": "/Devendra-Sinha/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "index.html": "/Devendra-Sinha/index.html",
+    "main.ff430668.css.map": "/Devendra-Sinha/static/css/main.ff430668.css.map",
+    "main.f22d0128.js.map": "/Devendra-Sinha/static/js/main.f22d0128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff430668.css",
+    "static/js/main.f22d0128.js"
+  ]
+}
